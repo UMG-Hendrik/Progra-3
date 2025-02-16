@@ -13,7 +13,7 @@ Este proyecto implementa una **Lista Doblemente Enlazada** en Python, permitiend
 - Generar una representación gráfica de la lista con **Graphviz**.
 
 ### 1. Clonar el repositorio
-- git clone https://github.com/tu-usuario/tu-repositorio.git
+- git clone https://github.com/UMG-Hendrik/Progra-3.git
 
 ### 2. Instalar dependencias
 Instala la librería **Graphviz**:
