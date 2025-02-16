@@ -1,0 +1,6 @@
+digraph {
+	rankdir=LR
+	2560686266352 [label="[hendrik hurtarte, Carnet: 1234]"]
+	2560686266352 -> 2560712474704 [dir=both]
+	2560712474704 [label="[aby sol, Carnet: 5678]"]
+}
